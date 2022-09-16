@@ -1,4 +1,4 @@
-            body {background-color: rgb(0, 174, 255);}
+            body {background-color: rgb(28, 29, 31);}
 
             ul {color: white;
                 text-align: center;
@@ -29,18 +29,31 @@
             }
 
             .desc-blog {
-                background-color: rgb(2, 133, 255);
+                background-color: rgb(44, 44, 44);
             }
 
         #blog {
             text-decoration: none;
-            background-color: rgb(21, 130, 255);
+            background-color: rgb(44, 44, 44);
             color: white;
             
         }
 
         .back-color{
-            background-color: rgb(0, 140, 255);
+            background-color: rgb(44, 44, 44);
             text-decoration: none;
             color: white;
+        }
+
+        .blog2 {
+            border: 2px rgb(196, 0, 245) solid
+        }
+        .lista-hab {
+            border: 2px rgb(0, 26, 255) solid
+        }
+        .minha-desc {
+            border: 2px rgb(30, 255, 0) solid
+        }
+        .peq-indice {
+            border: 2px red solid
         }
