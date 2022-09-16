@@ -39,10 +39,10 @@
             
         }
 
-        .back-color{
-            background-color: rgb(44, 44, 44);
-            text-decoration: none;
+        .item-hab{
             color: white;
+            text-decoration: none;
+            
         }
 
         .blog2 {
@@ -52,8 +52,11 @@
             border: 2px rgb(0, 26, 255) solid
         }
         .minha-desc {
+            
+            text-decoration: none;
+            color: rgb(0, 255, 64);
             border: 2px rgb(30, 255, 0) solid
         }
         .peq-indice {
-            border: 2px red solid
+            border: 2px rgb(255, 0, 0) solid
         }
